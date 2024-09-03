@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DeadZone
+  - VehicleArea
+  - Bullet
+  - Loop
+  - RagdollZone
+  - Grass
+  - Stone
+  - Tiles
+  - Skin
+  - Enemy
+  - Distractable
+  - CoverTrigger
+  - NPC
+  - Canvas
+  - VentilationGrid
+  - PickableItem
+  - Flashlight
+  - BigBoss
+  - MainEnemy
+  - Crowd
+  - Flamethrower
+  - CatherineWheel
+  - SledgeHammer
+  - Tub
+  - SeeSaw
+  - WaterLife
+  - Zombie1
+  - Zombie 2
+  - Zombie 3
+  - Zombie4
+  - Zombie5
+  - Zombie 6
+  - Zombie7
+  - Zombie 8
+  - Zombie9
+  - Slow Mo Zombie
+  - rooftop enemy
+  - Floor
+  - WallWaypoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Floor
+  - Vehicle
+  - Character
+  - Bullet
+  - Terrain
+  - VehicleMeshCollider
+  - VehicleWheel
+  - Item
+  - Bones
+  - Walls
+  - Trigger
+  - Post Processing
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
